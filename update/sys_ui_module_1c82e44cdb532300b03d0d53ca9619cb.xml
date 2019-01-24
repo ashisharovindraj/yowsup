@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Monthly Dashboard">1dd51008db532300b03d0d53ca9619b4</application>
+        <filter/>
+        <name>Monthly Dashboards</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_239742_monthly_d.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-24 10:30:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c82e44cdb532300b03d0d53ca9619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monthly Dashboards</sys_name>
+        <sys_package display_value="Monthly Dashboard" source="x_239742_monthly_d">f4d5d008db132300b03d0d53ca96194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Monthly Dashboard">f4d5d008db132300b03d0d53ca96194a</sys_scope>
+        <sys_update_name>sys_ui_module_1c82e44cdb532300b03d0d53ca9619cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-24 10:30:58</sys_updated_on>
+        <table>x_239742_monthly_d_monthly_dashboard</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

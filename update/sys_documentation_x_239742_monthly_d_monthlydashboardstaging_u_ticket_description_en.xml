@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_ticket_description" label="Ticket Description" language="en" table="x_239742_monthly_d_monthlydashboardstaging">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_ticket_description</element>
+            <help/>
+            <hint/>
+            <label>Ticket Description</label>
+            <language>en</language>
+            <name>x_239742_monthly_d_monthlydashboardstaging</name>
+            <plural>Ticket Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-24 13:25:09</sys_created_on>
+            <sys_id>486a8104dbd32300b03d0d53ca961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ticket Description</sys_name>
+            <sys_package display_value="Monthly Dashboard" source="x_239742_monthly_d">f4d5d008db132300b03d0d53ca96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Monthly Dashboard">f4d5d008db132300b03d0d53ca96194a</sys_scope>
+            <sys_update_name>sys_documentation_x_239742_monthly_d_monthlydashboardstaging_u_ticket_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-24 13:25:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

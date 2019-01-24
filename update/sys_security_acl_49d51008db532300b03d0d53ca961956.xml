@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_239742_monthly_d_monthly_dashboard_table</description>
+        <name>x_239742_monthly_d_monthly_dashboard_table</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-24 09:35:35</sys_created_on>
+        <sys_id>49d51008db532300b03d0d53ca961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_239742_monthly_d_monthly_dashboard_table</sys_name>
+        <sys_package display_value="Monthly Dashboard" source="x_239742_monthly_d">f4d5d008db132300b03d0d53ca96194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Monthly Dashboard">f4d5d008db132300b03d0d53ca96194a</sys_scope>
+        <sys_update_name>sys_security_acl_49d51008db532300b03d0d53ca961956</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-24 09:35:35</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

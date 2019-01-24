@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Monthly Dashboard">b4d5dcc4db532300b03d0d53ca961938</menu>
+        <name>Monthly Dashboard</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_239742_monthly_d</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_239742_monthly_d</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-24 09:35:34</sys_created_on>
+        <sys_id>f4d5d008db132300b03d0d53ca96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-24 09:35:34</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_239742_monthly_d.user" name="x_239742_monthly_d.user">b4d51008db532300b03d0d53ca961940</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
